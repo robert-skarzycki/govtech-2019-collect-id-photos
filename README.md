@@ -1,6 +1,6 @@
 ## Description
 
-In November 2019, I've enrolled to GovTech 2019 contest organized by Ministry of Digitalization of Poland. I've chosen a "challange" to prepare a mobile app to help people to upload proper photo when applying for identity card. By "proper photo" I mean one that statisfies all legal requirements, e.g. face is not vailed nor eyes hidden by glasses. This mobile app should analyze camera in real time to provide feedback to person taking a selfie photo that given setup doesn't meet particular requirement.
+In November 2019, I've enrolled to GovTech 2019 contest organized by Ministry of Digitalization of Poland. I've chosen a "challange" [to prepare a mobile app](https://konkursy.govtech.gov.pl/start/postepowanie/47) to help people to upload proper photo when applying for identity card. By "proper photo" I mean one that statisfies all legal requirements, e.g. face is not vailed nor eyes hidden by glasses. This mobile app should analyze camera in real time to provide feedback to person taking a selfie photo that given setup doesn't meet particular requirement.
 
 In general I've found that I could try to collect test photos (valid and invalid) by "crowdsourcing" among friends. So, my plan was as designed in three steps:
 
@@ -19,7 +19,7 @@ It consists of two applications:
 
 ### Web app for collecting test data
 
-I've just bootstrapped a web app with Gatsby CLI and [Julia starter](https://www.gatsbyjs.org/starters/niklasmtj/gatsby-starter-julia/) - same one that (my blog)[https://robert.skarzycki.pl/] runs with. It was a good decision beacuse I was able to simply start with responsive web app with nice look and just add subsequent pages using technologies I know, i.e. TypeScript and React.
+I've just bootstrapped a web app with Gatsby CLI and [Julia starter](https://www.gatsbyjs.org/starters/niklasmtj/gatsby-starter-julia/) - same one that [my blog](https://robert.skarzycki.pl/) runs with. It was a good decision beacuse I was able to simply start with responsive web app with nice look and just add subsequent pages using technologies I know, i.e. TypeScript and React.
 
 The app is just a wizard that guides a user step by step and asks for doing a selfie photo with specific conditions. First one is valid photo, then each should break specific requirement like wearing glasses.
 
