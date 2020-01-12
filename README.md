@@ -19,7 +19,7 @@ It consists of two applications:
 
 ### Web app for collecting test data
 
-I've just bootstrapped a web app with Gatsby CLI and [https://www.gatsbyjs.org/starters/niklasmtj/gatsby-starter-julia/](Julia starter) - same one that [https://robert.skarzycki.pl/](my blog) runs with. It was a good decision beacuse I was able to simply start with responsive web app with nice look and just add subsequent pages using technologies I know, i.e. TypeScript and React.
+I've just bootstrapped a web app with Gatsby CLI and [Julia starter](https://www.gatsbyjs.org/starters/niklasmtj/gatsby-starter-julia/) - same one that (my blog)[https://robert.skarzycki.pl/] runs with. It was a good decision beacuse I was able to simply start with responsive web app with nice look and just add subsequent pages using technologies I know, i.e. TypeScript and React.
 
 The app is just a wizard that guides a user step by step and asks for doing a selfie photo with specific conditions. First one is valid photo, then each should break specific requirement like wearing glasses.
 
