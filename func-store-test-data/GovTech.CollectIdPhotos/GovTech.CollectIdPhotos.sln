@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GovTech.CollectIdPhotos.FunctionApp", "GovTech.CollectIdPhotos.FunctionApp\GovTech.CollectIdPhotos.FunctionApp.csproj", "{378F0D4B-73DE-47DB-A19B-592D76248D76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378F0D4B-73DE-47DB-A19B-592D76248D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378F0D4B-73DE-47DB-A19B-592D76248D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378F0D4B-73DE-47DB-A19B-592D76248D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378F0D4B-73DE-47DB-A19B-592D76248D76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8DCA93-AA9C-427A-BD1C-857B7AE34FF1}
+	EndGlobalSection
+EndGlobal
